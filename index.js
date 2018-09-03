@@ -24,7 +24,7 @@ function deleteFromObjectByKey(object, key){
 function destructivelyDeleteFromObjectByKey(object, key){
   delete object[key];
   return object;
-}
+}3
 
   //describe('destructivelyDeleteFromObjectByKey(object, key)', function() {
  //   it('returns object without the delete key/value pair', function() {
